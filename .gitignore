@@ -132,3 +132,6 @@ dmypy.json
 
 # jupyter ntoebook checkpoints
 */.ipynb_checkpoints
+
+# ignore .tif files
+*.tif
